@@ -1,5 +1,5 @@
 ## Hello, I am Maria Mihaleva.
-#### I am network administrator with various interest in technologies.
+#### I am network administrator with various interest in software technologies.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mabrasheva)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-mihaleva-2ba94999/)
